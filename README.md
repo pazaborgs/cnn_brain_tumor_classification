@@ -1,7 +1,7 @@
 ﻿
 # 🧠 Classificação de Tumores Cerebrais com Deep Learning (CNNs)
 
-## *Brain Tumor**
+## **Brain Tumor**
 
 Este trabalho apresenta o desenvolvimento e a avaliação de modelos baseados em Redes Neurais Convolucionais (CNNs) para a classificação automática de tumores cerebrais em imagens de ressonância magnética (RM). Considerando a alta taxa de mortalidade associada aos tumores do Sistema Nervoso Central, a detecção precoce e precisa é fundamental para o sucesso do tratamento.
 
